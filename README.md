@@ -123,5 +123,5 @@ Additionally, the program utilizes the tkinter library in Python to present GUI 
 
 ## Team 
 
-- Viswanadha Sai Nissankararao - @ME
+- Viswanadha Sai Nissankararao _ 'ME'
 - [Nishant Kumar](https://github.com/nishant-kumarr)
